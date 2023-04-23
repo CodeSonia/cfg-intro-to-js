@@ -7,7 +7,7 @@ const AboutMe = (props) => {
       <h1>My name is {props.name}</h1>
       <h3>I am from and live in {props.location}</h3>
       <p>My favourite book is {props.bookTitle}</p>
-      <p>My favourite film is {props.favouriteFilm}</p>
+      <p>My favourite film is {props.favouriteFilm}!</p>
     </>
   );
 };
