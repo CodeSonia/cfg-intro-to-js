@@ -1,0 +1,2 @@
+## CSS
+Cascading Style Sheet (CSS) is a stylesheet language - it describes how HTML should be displayed to the browser. For example, it can point to a specific element i.e. the paragrapgh tag and say that it should be **bold**. 

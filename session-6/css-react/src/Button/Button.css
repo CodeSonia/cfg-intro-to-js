@@ -1,0 +1,8 @@
+.button {
+    font-style: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+    border: 6px solid rgb(150, 76, 88);
+    font-size: 2rem;
+    padding: 1rem;
+}
